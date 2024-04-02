@@ -1,4 +1,4 @@
-# CodeClauseIntern_Age-Gender-Detection-System
+# Age Gender Detection System
 
 This project is about a detection system that predicts the age and gender of a person.
 
